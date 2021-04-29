@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+MERGED from [com.github.grishka:appkit:c7854a3] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\6e7fcc0a3b6913375f78aabcebc06e4c\jetified-appkit-c7854a3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.grishka.litex:recyclerview:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\85e3472a3359422f76d902e570768dde\jetified-recyclerview-1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.grishka.litex:swiperefreshlayout:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\98b34b8139d3111852c9a00b2b388516\jetified-swiperefreshlayout-1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.grishka.litex:viewpager2:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\67966d35da5de80d38428bbe1b259ea7\jetified-viewpager2-1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [io.agora.rtc:voice-sdk:3.3.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\2a864fb6d9f0015415c545359dee55d2\jetified-voice-sdk-3.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.joielechong:countrycodepicker:2.4.2] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\d8b3747b3d6784f6ab182d388f11d072\jetified-countrycodepicker-2.4.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.grishka.litex:viewpager:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\75fffc2eebd2d3ece152d80ea76d86f7\jetified-viewpager-1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.5] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\8a1b19cd272730f0b5183483c3b3daa4\jetified-libphonenumber-android-8.12.5\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:11-41
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:1:1-40:12
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:2:2-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:4:2-63
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:4:19-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:5:2-72
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:5:19-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:6:2-68
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:6:19-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:7:2-77
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:7:19-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:8:19-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:10:2-65
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:10:19-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:11:2-73
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:11:19-70
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:12:2-73
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:12:19-71
+application
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:14:2-39:16
+	android:label
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:16:3-35
+	android:roundIcon
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:20:3-48
+	android:icon
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:19:3-37
+	android:allowBackup
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:15:3-29
+	android:theme
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:17:3-34
+	android:usesCleartextTraffic
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:21:3-38
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:18:3-22
+activity#me.grishka.houseclub.MainActivity
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:22:3-36:14
+	android:launchMode
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:22:89-120
+	android:configChanges
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:22:42-88
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:23:4-26:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:24:5-56
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:24:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:25:5-64
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:25:15-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:ios.joinclubhouse.com+data:host:ios.joinclubhouse.com+data:host:www.joinclubhouse.com+data:host:www.joinclubhouse.com+data:pathPrefix:/event/+data:pathPrefix:/event/+data:pathPrefix:/room/+data:pathPrefix:/room/+data:scheme:https+data:scheme:https+data:scheme:https+data:scheme:https
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:27:4-35:20
+action#android.intent.action.VIEW
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:28:5-56
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:28:13-54
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:29:15-63
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:30:5-64
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:30:15-61
+data
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:31:5-100
+	android:host
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:31:11-47
+	android:scheme
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:31:76-98
+	android:pathPrefix
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:31:48-75
+service#me.grishka.houseclub.VoiceService
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:37:3-43
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:37:12-40
+receiver#me.grishka.houseclub.notification.NotificationHandlerBroadcastReceiver
+ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:38:3-81
+	android:name
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml:38:13-78
+uses-sdk
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+MERGED from [com.github.grishka:appkit:c7854a3] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\6e7fcc0a3b6913375f78aabcebc06e4c\jetified-appkit-c7854a3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.grishka:appkit:c7854a3] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\6e7fcc0a3b6913375f78aabcebc06e4c\jetified-appkit-c7854a3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.grishka.litex:recyclerview:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\85e3472a3359422f76d902e570768dde\jetified-recyclerview-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.grishka.litex:recyclerview:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\85e3472a3359422f76d902e570768dde\jetified-recyclerview-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.grishka.litex:swiperefreshlayout:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\98b34b8139d3111852c9a00b2b388516\jetified-swiperefreshlayout-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.grishka.litex:swiperefreshlayout:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\98b34b8139d3111852c9a00b2b388516\jetified-swiperefreshlayout-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.grishka.litex:viewpager2:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\67966d35da5de80d38428bbe1b259ea7\jetified-viewpager2-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.grishka.litex:viewpager2:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\67966d35da5de80d38428bbe1b259ea7\jetified-viewpager2-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [io.agora.rtc:voice-sdk:3.3.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\2a864fb6d9f0015415c545359dee55d2\jetified-voice-sdk-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:voice-sdk:3.3.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\2a864fb6d9f0015415c545359dee55d2\jetified-voice-sdk-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:countrycodepicker:2.4.2] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\d8b3747b3d6784f6ab182d388f11d072\jetified-countrycodepicker-2.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:countrycodepicker:2.4.2] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\d8b3747b3d6784f6ab182d388f11d072\jetified-countrycodepicker-2.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.grishka.litex:viewpager:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\75fffc2eebd2d3ece152d80ea76d86f7\jetified-viewpager-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.grishka.litex:viewpager:1.0] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\75fffc2eebd2d3ece152d80ea76d86f7\jetified-viewpager-1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.5] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\8a1b19cd272730f0b5183483c3b3daa4\jetified-libphonenumber-android-8.12.5\AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.5] C:\Users\77081\.gradle\caches\transforms-2\files-2.1\8a1b19cd272730f0b5183483c3b3daa4\jetified-libphonenumber-android-8.12.5\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		ADDED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\77081\Desktop\Houseclub-master\Houseclub\src\main\AndroidManifest.xml

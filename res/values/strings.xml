@@ -1,0 +1,67 @@
+<resources>
+	<string name="app_name">Clubhouse</string>
+	<string name="login">Логин</string>
+	<string name="phone_number">Номер телефона</string>
+	<string name="enter_your_phone">Введите свой телефон #</string>
+	<string name="sms_code">Код из SMS</string>
+	<string name="resend_code_message">Не получил?</string>
+	<string name="resend_code_button">Нажмите, чтобы отправить повторно</string>
+	<string name="next">Next</string>
+	<string name="warning">Внимание!</string>
+	<string name="warning_text">Это <b> неофициальный</b> клиент для Clubhouse. Если у вас нету существующего аккаунта, вам придется создать аккаунт через IOS. Чтобы войти в систему. Разработчик - Ongar.dev </string>
+	<string name="i_understand">Я понял</string>
+	<string name="loading">Загрузка...</string>
+	<string name="error_loading">Ошибка загрузки данных</string>
+	<string name="waitlist">Список ожидания</string>
+	<string name="waitlist_text">Вы ждете, что кто-то пригласит вас в клуб. Ваша учетная запись в настоящее время неактивна.</string>
+	<string name="log_out">Выйти</string>
+	<string name="ongoing_call">Текущий звонок</string>
+	<string name="leave_room">Покинуть комнату</string>
+	<string name="join_this_room">Присоединяйтесь к этой комнате?</string>
+	<string name="join">Присоединиться</string>
+	<string name="cancel">Отмена</string>
+	<string name="followed_by_speakers">Followed by the speakers</string>
+	<string name="others_in_room">Others in the room</string>
+	<string name="confirm_join_as_speaker">%s приглашает вас присоединиться в качестве спикера, принять?</string>
+	<string name="register">Register</string>
+	<string name="first_name">Имя</string>
+	<string name="last_name">Фамилия</string>
+	<string name="username">Имя пользователя</string>
+	<string name="complete_registration">Завершите регистрацию</string>
+	<string name="all_fields_are_required">Все поля обязательны для заполнения</string>
+	<string name="username_limit">Имя пользователя не может быть длиннее 16 символов.</string>
+	<string name="register_warning">Registration in this <b>unofficial</b> app is as experimental a feature as the app itself. There\'s always a non-zero possibility of a ban if you don\'t use the official app to register. It would work better if you borrow an iOS device from someone, but you could still try registering from Android.\n\nPlease be aware that you\'ll only be able to change your name <b>once</b> after you register. Please use your real name.</string>
+	<string name="welcome_to_clubhouse">Добро пожаловать в Clubhouse!</string>
+	<plurals name="followers">
+		<item quantity="one">%d follower</item>
+		<item quantity="other">%d followers</item>
+	</plurals>
+	<plurals name="following">
+		<item quantity="one">%d following</item>
+		<item quantity="other">%d following</item>
+	</plurals>
+	<plurals name="invites">
+		<item quantity="one">You have %d invite</item>
+		<item quantity="other">You have %d invites</item>
+	</plurals>
+	<string name="invite_button_label">Инвайт</string>
+	<string name="invite_phone_hint">Введите номер телефона</string>
+	<string name="follows_you">Follows you</string>
+	<string name="follow">Follow</string>
+	<string name="following">Following</string>
+	<string name="followers_title">Followers</string>
+	<string name="following_title">Following</string>
+	<string name="notifications_title">Notifications</string>
+	<string name="confirm_unfollow">Unfollow <b>%s</b>?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="joined_date">Присоединился%s</string>
+	<string name="invited_by">Назначен %s</string>
+	<string name="update_bio">Обновить биографию</string>
+	<string name="update_name">Обновить имя</string>
+	<string name="save">Сохранить</string>
+	<string name="event_not_started">Это мероприятие еще не началось</string>
+	<string name="event_expired">Это мероприятие уже закончилось</string>
+	<string name="log_in_to_activate">Пожалуйста, войдите снова, чтобы активировать свою учетную запись.</string>
+	<string name="ok">OK</string>
+</resources>
