@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.agora.rtc:voice-sdk:3.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a864fb6d9f0015415c545359dee55d2/jetified-voice-sdk-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a864fb6d9f0015415c545359dee55d2/jetified-voice-sdk-3.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a864fb6d9f0015415c545359dee55d2/jetified-voice-sdk-3.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a864fb6d9f0015415c545359dee55d2/jetified-voice-sdk-3.3.0/jars/libs/agora-rtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/voice-sdk/3.3.0/6b519a7eb98da146bb534943d77a143c2c84a6fb/voice-sdk-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/voice-sdk/3.3.0/6b519a7eb98da146bb534943d77a143c2c84a6fb/voice-sdk-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

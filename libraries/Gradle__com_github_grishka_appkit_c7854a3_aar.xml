@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.grishka:appkit:c7854a3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e7fcc0a3b6913375f78aabcebc06e4c/jetified-appkit-c7854a3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e7fcc0a3b6913375f78aabcebc06e4c/jetified-appkit-c7854a3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e7fcc0a3b6913375f78aabcebc06e4c/jetified-appkit-c7854a3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.grishka/appkit/c7854a3/ebcd74bdd9d46eac8d562d535f5374f786f6d0e6/appkit-c7854a3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

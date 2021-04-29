@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.grishka.litex:swiperefreshlayout:1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98b34b8139d3111852c9a00b2b388516/jetified-swiperefreshlayout-1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98b34b8139d3111852c9a00b2b388516/jetified-swiperefreshlayout-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98b34b8139d3111852c9a00b2b388516/jetified-swiperefreshlayout-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98b34b8139d3111852c9a00b2b388516/jetified-swiperefreshlayout-1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.grishka.litex/swiperefreshlayout/1.0/206425f51fc7d2f66c590ce5228c5f132dbeaa22/swiperefreshlayout-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
